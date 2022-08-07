@@ -1,0 +1,84 @@
+
+.title {
+    text-align: center;
+    background: #D1C7C7;
+    margin: 2em;
+    padding-top: 1.2em;
+    padding-bottom: .4em;
+  }
+  
+  h1 {
+    display: block;
+    font-weight: bold;
+    font-size: 35px;
+    font-family: 'Playfair Display', serif;
+  }
+  
+  .title-description {
+    color: #242222;
+    font-size: 17px;
+  }
+  
+  .image {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-caption {
+    display: block;
+    text-align: center;
+    padding: .75em;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  #tribute-info {
+    background: #D1C7C7;
+  }
+  
+  #textt {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 2.5em;
+    font-weight: bold;
+    padding-bottom: 3em;
+    font-size: 20px;
+  }
+  
+  .infoo {
+    padding-left: 20%;
+    padding-right: 20%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+  }
+  
+  li {
+    padding:.7em;
+  }
+  
+  blockquote {
+    display: block;
+    font-style: italic;
+    text-align: left;
+    max-width: 545px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.5em;
+    margin-bottom: 2.5em;
+    padding-bottom: 2em;
+    font-size: 18px;
+  }
+  
+  .link {
+    text-align: center;
+    font-size: 19px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 2em;
+  }
+  
+  #tribute-link {
+    color: #275664;
+    font-weight: 1000;
+  }
